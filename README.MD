@@ -4,7 +4,7 @@ Please download the data from [BART-Ridership](https://www.kaggle.com/saulfuh/ba
 
 The folder structure should be like the following
 
-    ../COSC.5010.Final.Project_Libao.Jin
+    .
     ├── data
     │   └── bart-ridership
     │       ├── date-hour-soo-dest-2016.csv
