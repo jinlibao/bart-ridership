@@ -1,5 +1,7 @@
 # COSC 5010 Final Project — Data Mining in Public Transportation
 
+[![DOI](https://zenodo.org/badge/131897531.svg)](https://zenodo.org/badge/latestdoi/131897531)
+
 Please download the data from [BART-Ridership](https://www.kaggle.com/saulfuh/bart-ridership/data), and put the .csv files under the folder `./data/bart-ridership`.
 
 The folder structure should be like the following
